@@ -28,6 +28,12 @@ With interactive year and month filters, users can explore patient visit pattern
 
 ![Hospital Patient Visits Excel Dashboard](Hospital_Dashboard_Preview.png)
 
+## 🎥 Dashboard Demo
+
+Watch a short video demonstrating the dashboard's interactive filters and visualizations.
+
+[**▶ Watch the Hospital Emergency Room Dashboard Demo on YouTube**](https://youtu.be/KTSVKB_NhBs)
+
 ## Key Insights
 
 The following findings are based on the January 2024 dashboard view.
@@ -44,10 +50,11 @@ The following findings are based on the January 2024 dashboard view.
 
 Data analysis, Excel reporting, Interactive Dashboard Design, data visualization, and analytical thinking.
 
-## Project Files
+## 📁 Project Files
 
-- `Hospital_Dashboard.xlsx` — Interactive Excel dashboard with year and month filters.
-- `Hospital_Dashboard_Preview.png` — Screenshot preview of the dashboard.
+- **[Hospital_Dashboard.xlsx](Hospital_Dashboard.xlsx)** — Interactive Excel dashboard with year and month filters.
+- **[Hospital_Dashboard_Preview.png](Hospital_Dashboard_Preview.png)** — Static screenshot preview of the dashboard.
+- **[Hospital_Dashboard_Demo.mp4](Hospital_Dashboard_Demo.mp4)** — Short screen recording demonstrating the dashboard's interactive features.
 
 ## Disclaimer
 
